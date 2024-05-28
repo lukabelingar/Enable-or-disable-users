@@ -1,0 +1,34 @@
+{
+    "USERS": {
+        "__SystemAdministrator": {
+            "ALGORITHM": 1,
+            "ENABLED": true,
+            "PASSWORD": "5f2206529d6c1a8075a0688316791d2e96f35dd6ff15f1f53bd81252c16217e044c91073a994431efe61aabf1436750b2f5c1808fd5b92fa3108cd3d6c600b51",
+            "SALT": "w/QfnO2Th2xn+iCgzQj6cWdpQys44qqermJK0aYaT1c7W7WxNh2rDlV7H0lsGWgeJveatCTi+NJL//yoCv/CWw=="
+        },
+        "__SystemGuest": {
+            "ALGORITHM": 0,
+            "ENABLED": true,
+            "PASSWORD": "",
+            "SALT": ""
+        },
+        "__SystemUser": {
+            "ALGORITHM": 0,
+            "ENABLED": true,
+            "PASSWORD": "",
+            "SALT": ""
+        },
+        "demo": {
+            "ALGORITHM": 1,
+            "ENABLED": true,
+            "PASSWORD": "bb1ed2487ac3d7f9de1ac7ebe789450e0113b5cc27eb505e67ab2f16071f9b4894180d23160d6b1a00065dc4e7fe3d3bae84f305098f61997dae059df692d684",
+            "SALT": "eBuMv2du+Eddbgo1exLN5HR53m1MHto8MVwXpN22f/DwjmYt+PZ5L9kpu0LBXdLT+Vv6JF/nGuvzYl1F5IBz9A=="
+        },
+        "luka": {
+            "ALGORITHM": 1,
+            "ENABLED": false,
+            "PASSWORD": "661a05657034c5faae7952b3fe50af80cecfd5f4104fdd8dc45fa878794f8e37d666ab01b55b2dfbd429c9af544c67e0eb56893216ced0c96442106d479e8281",
+            "SALT": "UEpRL2coDsp7oUMe3aoUWIn14aQWvFEc3SHfmiLlEQKwSonz2+ecZgVrD1ohagGF8/xnseGSmFBOrApmtHmPxQ=="
+        }
+    }
+}
