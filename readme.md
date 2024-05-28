@@ -19,3 +19,6 @@ This particular operation requires a couple additional read+write permissions:
 
 # Tested
 1.12.760.59
+
+# Running the code
+Publish the HMI project and login as user "demo", which is member of group "pawr". Try modifying user "luka" by pressing the only button and checkbox available on the visualization.
