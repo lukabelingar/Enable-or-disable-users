@@ -5,7 +5,7 @@ Sample project demonstrates, how users can be enabled or disabled via HMI. The [
 * TcHmiUserManagement.DisableUser
 * TcHmiUserManagement.EnableUser
 
-[euser](Users%20%Enable/Images/euser.png)
+![euser](Users%20Enable/Images/euser.png)
 
 # Tested
 1.12.760.59
